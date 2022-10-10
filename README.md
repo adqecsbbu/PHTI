@@ -9,4 +9,5 @@ APPLICATIONS OF THE PHTI DATASET:
 3.	Skew and Line Segmentation
 4.	OCR Application
 
-The dataset is available on the license provide by (GNU General Public License v3.0).
+
+The dataset is available under the terms and conditions covered within the license provided by (GNU General Public License v3.0).
